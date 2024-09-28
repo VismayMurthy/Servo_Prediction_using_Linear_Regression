@@ -10,24 +10,3 @@ Screw A,B,C,D,E
 Pgain 3,4,5,6
 Vgain 1,2,3,4,5
 Class 0.13 to 7.10
-About
-Servo Prediction Using Linear Regression
-
-Resources
- Readme
- Activity
-Stars
- 2 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Languages
-Jupyter Notebook
-100.0%
-Footer
